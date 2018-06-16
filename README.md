@@ -1,4 +1,4 @@
-# SAS-Customer-Purchase-Behavior
+# SAS: Customer Purchase Behavior
 A customized data model that helps predicting customer purchase behavior for a bookstore (Barnes & Noble) using supervised machine learning techniques. 
 The following files have been uploaded with the project:
 
